@@ -1,4 +1,4 @@
-# Starter base @UI LibraryReact Native Reusables[https://rnr-docs.vercel.app/getting-started/introduction/]
+# Starter base @UI Library [React Native Reusables](https://rnr-docs.vercel.app/getting-started/introduction/)
 
 A starting point to help you set up your project quickly and use the common components provided by `react-native-reusables`. The idea is to make it easier for you to get started.
 
